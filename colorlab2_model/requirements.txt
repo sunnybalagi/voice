@@ -1,0 +1,13 @@
+Keras==2.4.3
+pydub==0.24.0
+SoundFile==0.10.3.post1
+scipy==1.4.1
+webrtcvad==2.0.10
+tqdm==4.46.0
+numpy==1.18.1
+librosa==0.8.0
+pandas==1.1.4
+matplotlib==3.1.2
+Flask==1.1.2
+prediction==0.0.3
+pyAudioAnalysis==0.3.6
